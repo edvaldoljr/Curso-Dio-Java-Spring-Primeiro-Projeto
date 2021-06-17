@@ -17,7 +17,7 @@ Generate a `Maven Project` with `Java` and Spring Boot `2.5.1`
 
 Clique em **Generate Project.**
 
-![](C:\Users\Edvaldo junior\Pictures\spring-maven.jpg)
+![](https://github.com/academiadev-jlle/wiki/raw/master/.gitbook/assets/spring-maven.jpg)
 
 ## **Importando o projeto no IntelliJIDEA**
 
